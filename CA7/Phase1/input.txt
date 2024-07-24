@@ -1,0 +1,37 @@
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+GET team_of_the_week ? week_num 1
+GET team_of_the_week ? week_num 2
+GET team_of_the_week ? week_num 3
+GET team_of_the_week ? week_num 4
+GET team_of_the_week ? week_num 5
+GET team_of_the_week ? week_num 6
+GET team_of_the_week ? week_num 7
+GET team_of_the_week ? week_num 8
+GET team_of_the_week ? week_num 9
+GET team_of_the_week ? week_num 10
+GET team_of_the_week ? week_num 11
+GET team_of_the_week ? week_num 12
+GET team_of_the_week ? week_num 13
+GET team_of_the_week ? week_num 14
+GET team_of_the_week ? week_num 15
+GET team_of_the_week ? week_num 16
+GET team_of_the_week ? week_num 17
+GET team_of_the_week ? week_num 18
